@@ -5,9 +5,9 @@ body {
 }
 
 #container {
-    width: 75%;
-    margin: 30px auto 0;
-    padding: 50px;
+    width: 69%;
+    margin: 10px auto 0;
+    padding: 30px;
     box-sizing: border-box; /* ignore padding for the box */
     background: url("http://www.pixeden.com/media/k2/galleries/165/003-subtle-light-pattern-background-texture-vol5.jpg") top left repeat;
     box-shadow: 15px 15px 15px -8px #000;
@@ -56,5 +56,16 @@ input[type=checkbox] {
 }
 
 #checkAll {
-    margin: 20px auto 0;
+    margin: 10px auto 0;
+}
+
+footer p {
+    font-size: 12px;
+    text-align: left;
+}
+
+a:link, a:visited {
+    color: black;;
+    text-decoration: none;
+    font-weight: bold;
 }
